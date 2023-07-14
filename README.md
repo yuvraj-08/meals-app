@@ -2,15 +2,18 @@
 <h4>Click <a href="https://yuvraj-08.github.io/meals-app/"> Here</a> For Demo</h4>
 
 <p>The Meals App is a web application that allows users to search for their favorite meals, view their details, and create a personalized favorites list. It utilizes HTML, CSS, and JavaScript to provide an interactive and user-friendly experience. The app leverages the MealDB API to fetch meal data and display it to the users.</p>
-
-<img src=" " alt="Meals App Screenshot">
+<img src="https://i.ibb.co/59YGL3g/meals-app-UI-1.png" alt="meals-app-UI-1" border="0">
 
 <h2>Features</h2>
 <ul>
-<li>Search for meals: Users can enter keywords in the search bar to find meals matching their preferences.</li>
-<li>Meal details: Users can click on a meal to view its details, including an image, category, area, and instructions. The app also provides a link to a YouTube video for further reference.</li>
-<li>Favorites list: Users can add or remove meals from their favorites list. The list is stored in local storage, allowing users to access their favorite meals across sessions.</li>
-<li>Responsive design: The app is built using Bootstrap CSS framework, ensuring a responsive and mobile-friendly layout.</li>
+<li><b>Search for meals:</b> Users can enter keywords in the search bar to find meals matching their preferences.</li>
+  <img src="https://i.ibb.co/FsJd8k5/mUI-3.png" alt="mUI-3" border="0">
+<li><b>Meal details:</b> Users can click on a meal to view its details, including an image, category, area, and instructions. The app also provides a link to a YouTube video for further reference.</li>
+  <img src="https://i.ibb.co/MnK4skq/mUI-4.png" alt="mUI-4" border="0">
+<li><b>Favorites list:</b> Users can add or remove meals from their favorites list. The list is stored in local storage, allowing users to access their favorite meals across sessions.</li>
+  <img src="https://i.ibb.co/BVSF76M/meals-app-UI-2.png" alt="meals-app-UI-2" border="0">
+<li><b>Responsive design:</b> The app is built using Bootstrap CSS framework, ensuring a responsive and mobile-friendly layout.</li>
+  <img src="https://i.ibb.co/h93T5D0/mmUI-1.png" alt="mmUI-1" border="0">
 </ul>
 
 <h2>Technologies Used</h2>
@@ -45,3 +48,4 @@ Special thanks to the MealDB API for providing the meal data used in this projec
 
 <h2>Contact</h2>
 <p>For any questions or inquiries, please contact Yuvraj Singh.</p>
+:envelope_with_arrow: Email :-  yuvi1707@hotmail.com
